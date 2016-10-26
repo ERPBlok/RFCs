@@ -1,6 +1,8 @@
 # RFCs
 
-This is the furret-ui framework RFCs. 
+This is the furret-ui framework RFCs. You may wan't to
+read this RFCs [online](
+https://jssuzanne.gitbooks.io/erpblok-client-rfcs/content/).
 
 * [**RFCs** (Request for comments)](
   https://en.wikipedia.org/wiki/Request_for_Comments)
