@@ -4,3 +4,4 @@ Need reading the doc
 * https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/
 * https://github.com/juancarlospaco/css-html-js-minify
 * https://github.com/trueadm/inferno/blob/master/README.md
+* https://github.com/aknuds1/html-to-react
